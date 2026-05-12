@@ -2,4 +2,4 @@ function sumar(a,b){
     return a+b;
 }
 
-console.log(login("admin","1234"))
+console.log("Resultado: ",sumar(10,5));
